@@ -47,14 +47,23 @@ Data berikut merupakan data department yang menampilkan informasi mengenai depar
 Visualization & Statistics
 --------------------------
 - Distribusi Gaji Seluruh Karyawan & Hanya Manager
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Dist%20Gaji%20Karyawan.PNG)
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Dist%20Gaji%20Manager.PNG)
 - 5 Departemen dengan Gaji Maksimum Terendah
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/5%20Dept%20Gaji%20Maks%20Terendah.PNG)
 - Korelasi antara Besar Komisi (%) dengan Total Salary di Departemen Sales
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Korelasi%20Bawahan-Gaji%20Manager_Scatter.PNG)
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Korelasi%20Bawahan-Gaji%20Manager_Heatmap.PNG)
 - Rata-Rata Gaji Seluruh Karyawan Berdasarkan Negara
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Avg%20Gaji%20Karyawan%20per%20Negara.PNG)
 - Korelasi Banyaknya Bawahan Manager dengan Gaji Manager
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Korelasi%20Bawahan-Gaji%20Manager_Scatter.PNG)
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Korelasi%20Bawahan-Gaji%20Manager_Heatmap.PNG)
 - Perbedaan Gaji Tiap Departemen
+![](https://github.com/reinaldoivan/CapstoneModule2/blob/main/Screenshots/Avg%20Gaji%20per%20Department.PNG)
 
 <br />
 
 Additional Links
 ----------------
-Link Video Penjelasan: https://drive.google.com/file/d/1ECY-o8wSSdHG1XAM0fEW51gkNPRv4odQ/view?usp=sharing
+Link Video Penjelasan & Screenshots Visualisasi: https://drive.google.com/drive/folders/1eyNzDFBOzL5HEz6rWxertMZRnn6fuVac?usp=sharing
