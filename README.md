@@ -1,7 +1,7 @@
-# Capstone Module 2
-**Data Analysis Project**
+# HR Database Analysis
+**Data Analysis of HR Database**
 
-**Database: HR Database**
+*Associated with Purwadhika Coding School for Module 2 Capstone Project*
 
 <br />
 
